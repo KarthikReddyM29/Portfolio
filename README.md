@@ -63,8 +63,8 @@ A detail-oriented and highly motivated Computer Science & Engineering student sp
 ## 📬 Contact  
 - 📧 **mandapatikarthikreddy@gmail.com**  
 - 📱 **+91 84659 03834**  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🖥️ Portfolio Website: [Your Portfolio Link](#)  
+- 💼 LinkedIn: [www.linkedin.com/in/karthik-reddy-mandapati-709b20239](#)  
+- 🖥️ Portfolio Website: [https://karthikreddym29.github.io/Portfolio/](#)  
 
 ---
 ✨ *Always eager to learn, adapt, and contribute to impactful projects.*  
